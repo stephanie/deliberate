@@ -1,0 +1,9 @@
+{
+    "name": "Deliberate Practice Launcher",
+    "description": "Helps you get into Deliberate Practice",
+    "version": "0.0.1",
+    "permissions": ["management"],
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    }
+}
